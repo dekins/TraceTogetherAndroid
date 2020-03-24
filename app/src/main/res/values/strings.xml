@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Trace Together PH</string>
+    <string name="labelPhoneNum">Please enter your mobile phone number</string>
+    <string name="labelOTP">Please enter the OTP sent to your phone number</string>
+    <string name="input_all_required_information">Input all required information</string>
+
+    <string-array name="blood_type">
+        <item>Select</item>
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+    </string-array>
+
+    <string-array name="medical_cond">
+        <item>cough</item>
+        <item>fever</item>
+        <item>shortness of breath</item>
+        <item>to be populated</item>
+    </string-array>
+
+</resources>
